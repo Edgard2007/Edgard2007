@@ -1,5 +1,5 @@
 ## Hi there, i'm Edgard, a 18 year old programmer, studying to be an Software Engineer.<br>
-## Feel free to see all the repositories and all my work.<br>
+## Studying at FIAP - Software Engineering and at FATEC - Software Analyst and Developer.<br>
 
 
 ## 🌐 Socials:
