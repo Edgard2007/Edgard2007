@@ -1,10 +1,8 @@
 ## Oi, eu sou Edgard, estudante de programação, futuro Engenheiro de Software e Analista de sistemas.<br>
-## FIAP - Engenharia de Software.<br>
-## FATEC - Análise e Desnvolvimento de Sistemas.<br>
+## FIAP - Engenharia de Software - FATEC - Análise e Desnvolvimento de Sistemas.<br>
 
 ## Hi there, i'm Edgard, a 18 year old programmer, studying to be an Software Engineer.<br>
-## FIAP - Software Engineering.<br>
-## FATEC - Software Analyst and Developer.
+## FIAP - Software Engineering - FATEC - Software Analyst and Developer.
 
 
 ## Socials:
