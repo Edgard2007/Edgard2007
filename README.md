@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/blackhole.svg" width="100%" alt="Black Hole Animation">
+  <img src="./assets/blackhole.svg" width="100%" alt="Animation">
 </p>
 
 <h1 align="center">Edgard Costa</h1>
