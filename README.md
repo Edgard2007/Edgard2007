@@ -1,4 +1,7 @@
-<p align="center">
+<p align="left">
+  <img src="./assets/death-star-spin.gif" width="25%" alt="Animation">
+</p>
+<p align="right">
   <img src="./assets/death-star-spin.gif" width="25%" alt="Animation">
 </p>
 
