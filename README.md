@@ -28,7 +28,6 @@ My interests include:
 - Artificial Intelligence
 - Computer Graphics
 - Astrophysics
-- UI/UX
 - 3D Development
 
 ---
