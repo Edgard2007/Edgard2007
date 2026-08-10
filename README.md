@@ -1,9 +1,8 @@
 <p align="center">
   <img src="./assets/death-star-spin.gif" width="25%" alt="Animation">
-</p>
-<p align="bottom-left">
   <img src="./assets/death-star-spin.gif" width="25%" alt="Animation">
 </p>
+
 
 <h1 align="center">Edgard Costa</h1>
 
