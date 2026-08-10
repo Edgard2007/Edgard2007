@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/tumblr_inline_nxeeqaPJK01sjhna2_250.gif" width="25%" alt="Animation">
+  <img src="./assets/death-star-spin.gif" width="25%" alt="Animation">
 </p>
 
 <h1 align="center">Edgard Costa</h1>
