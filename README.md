@@ -1,7 +1,7 @@
-<p align="left">
+<p align="center">
   <img src="./assets/death-star-spin.gif" width="25%" alt="Animation">
 </p>
-<p align="flex">
+<p align="center">
   <img src="./assets/death-star-spin.gif" width="25%" alt="Animation">
 </p>
 
