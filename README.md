@@ -55,7 +55,7 @@ My interests include:
 ### Back-end/Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,mysql,spring" />
 </p>
 
 ### Tools
