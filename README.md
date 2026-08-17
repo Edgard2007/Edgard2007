@@ -109,7 +109,7 @@ My interests include:
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-<a href="https://instagram.com/edgard.costa2007">
+<a href="www.linkedin.com/in/edgarddev">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
