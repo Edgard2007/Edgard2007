@@ -56,7 +56,9 @@ My interests include:
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,supabase,mysql" />
+<p>
 <img src="https://skillicons.dev/icons?i=spring,kafka" />
+</p>
 </p>
 
 ### Tools
