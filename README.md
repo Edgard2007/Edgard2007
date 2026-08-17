@@ -31,7 +31,13 @@ My interests include:
 - 3D Development
 
 ---
+## Personal Portfolio
 
+ <p align="center">
+  <img src="./assets/death-star-spin.gif" width="25%" alt="Animation">
+</p>
+
+---
 ## Technologies
 
 ### Languages
