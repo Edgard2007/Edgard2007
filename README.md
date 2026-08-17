@@ -52,7 +52,7 @@ My interests include:
 <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
-### Back-end
+### Back-end/Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,supabase,mysql" />
