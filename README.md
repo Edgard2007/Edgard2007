@@ -34,7 +34,7 @@ My interests include:
 ## Personal Portfolio
 
  <p align="center">
-  <img src="./assets/death-star-spin.gif" width="25%" alt="Animation">
+  <img src="./assets/qr-code.png" width="25%" alt="Animation">
 </p>
 
 ---
