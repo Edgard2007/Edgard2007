@@ -82,17 +82,6 @@ My interests include:
 
 ---
 
-## GitHub Statistics
-
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Edgard2007&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## Connect
 
 <p>
