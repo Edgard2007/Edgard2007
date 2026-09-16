@@ -42,7 +42,7 @@ My interests include:
 
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,java,react,git,node,sql,supabase" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,react,git,nodejs,supabase" />
 </p>
 
 
