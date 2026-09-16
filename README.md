@@ -10,6 +10,11 @@
 Software Engineering Student • Full Stack Developer • Software Engineering Enthusiast
 </p>
 
+<p align="center">
+  <a href="https://portifolio-kappa-fawn-65.vercel.app/">
+    <img src="https://img.shields.io/badge/%20View%20my%20Portfolio-1c0333?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ## About Me
@@ -30,11 +35,6 @@ My interests include:
 - Astrophysics
 - 3D Development
 
-<p align="center">
-  <a href="https://portifolio-kappa-fawn-65.vercel.app/">
-    <img src="https://img.shields.io/badge/%20View%20my%20Portfolio-5f6cff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-</p>
 
 ---
 ## Personal Portfolio
