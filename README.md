@@ -9,11 +9,6 @@
 <p align="center">
 Software Engineering Student • Full Stack Developer • Software Engineering Enthusiast
 </p>
-<br>
-<p align="center">
-  Software Developer | Software Engineer
-</p>
-
 
 <br>
 <p align="center">
