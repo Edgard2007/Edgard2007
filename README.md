@@ -38,31 +38,20 @@ My interests include:
 </p>
 
 ---
-## Technologies
-
-### Languages
+## Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,java" />
 </p>
-
-### Front-end
-
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
-
-### Back-end/Database
-
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,supabase,mysql" />
 <p>
 <img src="https://skillicons.dev/icons?i=spring,kafka" />
 </p>
 </p>
-
-### Tools
-
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,blender,vscode" />
 </p>
