@@ -47,16 +47,9 @@ What i study and upgrade at:
 
 
 
-## Current Focus
+## What im doing
 
-- Software Architecture
-- Clean Code
-- Node.js
-- React
-- TypeScript
-- Artificial Intelligence
-- Three.js
-- Computer Graphics
+Full Stack Dev, with focus on back-end
 
 ---
 
