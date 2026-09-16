@@ -40,9 +40,9 @@ My interests include:
 ---
 ## Tech Stack
 
-
+What i study and upgrade at:
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,java,react,git,nodejs,supabase" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,react,git,nodejs,spring,supabase" />
 </p>
 
 
