@@ -12,7 +12,7 @@ Software Engineering Student • Full Stack Developer • Software Engineering E
 
 ---
 
-**About Me**
+## About Me
 
 I'm an 18-year-old Software Engineering student passionate about building high-quality software, clean architectures, artificial intelligence, and computer graphics.
 
