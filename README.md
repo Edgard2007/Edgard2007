@@ -68,7 +68,6 @@ Full Stack Dev, with focus on back-end
 <a href="www.linkedin.com/in/edgarddev">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
 </p>
 
 ---
