@@ -40,23 +40,19 @@ My interests include:
 ---
 ## Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,java" />
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,mysql" />
-<p>
-<img src="https://skillicons.dev/icons?i=spring,kafka" />
-</p>
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,blender,vscode" />
-</p>
 
----
+<img src="https://skillicons.dev/icons?i=js,ts,java" />
+
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,mysql" />
+
+<img src="https://skillicons.dev/icons?i=spring,kafka" />
+
+
+<img src="https://skillicons.dev/icons?i=git,github,blender,vscode" />
+
+
 
 ## Current Focus
 
