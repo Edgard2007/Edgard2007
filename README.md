@@ -72,7 +72,7 @@ Full Stack Dev, with focus on back-end
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-<a href="www.linkedin.com/in/edgarddev">
+<a href="https://www.linkedin.com/in/edgarddev">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 </p>
